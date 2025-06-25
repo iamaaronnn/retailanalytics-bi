@@ -6,7 +6,6 @@ This project simulates a realistic e-commerce retail environment by generating s
 ## 🔧 Tools & Technologies
 - **Python** (Pandas, NumPy)
 - **Power BI**
-- **Jupyter Notebook / .py scripts**
 
 ## 📊 Project Highlights
 - **Synthetic Data Generation**: Created a multi-field retail order dataset that mirrors real-world e-commerce transactions using Python and Pandas.
