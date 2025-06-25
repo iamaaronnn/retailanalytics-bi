@@ -14,3 +14,4 @@ This project simulates a realistic e-commerce retail environment by generating s
   - Visualized sales, profits, discounts, and order quantities.
   - Developed slicers and filters for dynamic exploration of data across time periods, regions, categories, and shipping methods.
 - **Business Insight Extraction**: Enabled trend detection, performance analysis by region, product mix evaluation, and more.
+![dashboard](https://github.com/user-attachments/assets/e0ea2c53-f42c-4744-a171-dff4d7acfd94)
